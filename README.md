@@ -1,2 +1,4 @@
-# Udacity_Machine_Learning_Nanodegree
-TERM ONE 
+# Udacity_Machine_Learning_INTRODUCTION_  [TERM - ONE]
+
+------------------------------------------------------------------------
+My Self-Learning Strategy.
