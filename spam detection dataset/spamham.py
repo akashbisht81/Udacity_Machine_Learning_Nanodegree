@@ -1,3 +1,7 @@
+# Recommended Extra Read: - 
+# https://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html
+# --------------------------------------------------------------------------------------------
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
